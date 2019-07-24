@@ -12,7 +12,7 @@ namespace Getbranching
         {
             Console.WriteLine("HelloWorld.");
 
-            for (int i = 1; i < 11; i++)
+            for (int i = 1; i < 6; i++)
                 Console.WriteLine(i);
             Console.ReadKey();
 
